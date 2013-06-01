@@ -1,0 +1,3 @@
+F8 is set to decrease transparency, F9 to increase transparency
+C-F9 is set to keep gvim always on top
+C-F8 unsets the 'always on top' option
