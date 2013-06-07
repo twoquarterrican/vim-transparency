@@ -3,7 +3,7 @@
 " Maintainer: Justin Thomas
 
 if exists("g:loaded_vim_transparency")
-	finishes
+	finish
 endif
 let g:loaded_vim_transparency = 1
 
